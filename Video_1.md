@@ -27,22 +27,22 @@ dia melakukan perubahan tersebut. Selain itu, VCS dapat memungkinkan penggunanya
 Git merupakan sebuah perangkat lunak VCS yang digunakan untuk mengelola perubahan informasi berupa file di folder (repository/repo). Git akan menyimpan seluruh riwayat perubahan dari file-file tersebut
 dengan bantuan serangkaian `commit` yang memiliki penanda unik hash. Dengan menggunakan Git, para developer atau tim dapat melakukan kolaborasi pada suatu *codebase* yang sama dan melakukan *version control system*
 dengan merekam dan menyimpan perubahan pada *source code*, sesuai dengan penjelasan pada [Version Control System (VCS)](#VCS). Dalam praktiknya, cabang baru atau `branch` dapat dibuat dari suatu `commit` dan menggabungkan fitur dari
-cabang-cabang berbeda yang dikerjakan secara terpisah dengan melakukan `merge`. Git dapat dijalankan dalam komputer pribadi (*lokal*) setelah mengunduh software Git yang dapat dilakukan dari [link berikut](https://git-scm.com/downloads).Istilah-istilah asing Git dalam bagian ini akan dibahas pada bagian selanjutnya
+cabang-cabang berbeda yang dikerjakan secara terpisah dengan melakukan `merge`. Git dapat dijalankan dalam komputer pribadi (*lokal*) setelah mengunduh software Git yang dapat dilakukan dari [link berikut](https://git-scm.com/downloads). Istilah-istilah asing Git dalam bagian ini akan dibahas pada bagian selanjutnya
 
 <p>&nbsp;</p>
 
 ## Glosarium Git : Istilah Penting yang Sering Digunakan <a name = "GG"></a>
 
--`Repository/repo` : Folder tempat menyimpan file dan tempat mengelola perubahan file.
--`Commit` : Sebuah riwayat perubahan file yang disimpan
--`Hash` : Penanda unik untuk setiap `commit`
--`Branch` : Cabang yang dibuat atau ada pada `commit` agar tidak mengganggu `commit` utama
--`Merge` : Proses penggabungan dua buah `branch` menjadi satu
--`Checkout` : Melakukan perpindahan ke sebuah `commit`
--`Remote` : Sumber yang memiliki `repository/repo`
--`Clone` : Mengambil suatu `repository/repo` dari remote dan menggandakannya
--`Push` : Proses pengiriman `commit` ke suatu `repository/repo`
--`Pull` : Mengambil `commit` dari `repository`
+- `Repository/repo` : Folder tempat menyimpan file dan tempat mengelola perubahan file.
+- `Commit` : Sebuah riwayat perubahan file yang disimpan
+- `Hash` : Penanda unik untuk setiap `commit`
+- `Branch` : Cabang yang dibuat atau ada pada `commit` agar tidak mengganggu `commit` utama
+- `Merge` : Proses penggabungan dua buah `branch` menjadi satu
+- `Checkout` : Melakukan perpindahan ke sebuah `commit`
+- `Remote` : Sumber yang memiliki `repository/repo`
+- `Clone` : Mengambil suatu `repository/repo` dari remote dan menggandakannya
+- `Push` : Proses pengiriman `commit` ke suatu `repository/repo`
+- `Pull` : Mengambil `commit` dari `repository`
 
 <p>&nbsp;</p>
 
