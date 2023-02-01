@@ -7,6 +7,6 @@ Repositori berisi program dari Misi 1 Modul 1 Programming SEKURO 2023 dengan mat
 ## Data Penulis <a name = "DP"></a>
 Nama : Muhammad Kamal <br>
 NIM : 16022434 <br>
-Jurusan : TPB - FMIPA IPA
+Jurusan : TPB - FMIPA
 
 <p>&nbsp;</p>
