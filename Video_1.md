@@ -4,10 +4,10 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=lTMZx
 <p>&nbsp;</p>
 
 ## Daftar Isi
-1. [Version Control System](#VCS)
-2. [Git](#Git)
-3. [Glosarium Git : Istilah Penting yang Sering Digunakan](#GG)
-4. [Github serta Hubungannya dengan Git](#Github)
+1. [Version Control System](#VCS-)
+2. [Git](#Git-)
+3. [Glosarium Git : Istilah Penting yang Sering Digunakan](#GG-)
+4. [Github serta Hubungannya dengan Git](#Github-)
 
 <p>&nbsp;</p>
 
