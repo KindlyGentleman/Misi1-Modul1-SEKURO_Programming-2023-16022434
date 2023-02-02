@@ -11,7 +11,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=8rry2
 
 <p>&nbsp;</p>
 
-## Apa itu Fork? <a name = "CT"></a>
+## Apa itu Fork? <a name = "Fork"></a>
 
 **Hah?!? Garpu?!** Untuk apa garpu ada di Github? Apakah untuk makan programnya? Tentu saja tidak. Istilah `Fork` yang digunakan sama-sama menggambarkan percabangan juga di Github. `Fork` merupakan proses duplikasi dari `repo` akun orang lain yang kita buat menjadi `repo` pribadi kita sendiri. Jadi, `fork` akan membuat "siluman" atau "copy" dari `repo` orang lain beserta dengan informasi riwayat dan sejarahnya.
 
