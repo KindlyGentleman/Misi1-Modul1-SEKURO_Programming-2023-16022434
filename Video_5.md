@@ -7,7 +7,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=e-6Ok
 
 1. [Git : Pengenalan dan Instalasi](#git--pengenalan-dan-instalasi-)
 2. [Perintah dan Istilah dalam Git](#perintah-dan-istilah-dalam-git-)
-3. [Bekerja dengan Git](#bekerja-dengan-git-dan-cara-caranya)
+3. [Bekerja dengan Git](#bekerja-dengan-git-dan-cara-caranya-)
 4. [Catatan Tambahan](#catatan-tambahan-)
 
 <p>&nbsp;</p>

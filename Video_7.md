@@ -5,7 +5,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=Vfwfe
 
 ## Daftar Isi
 
-1. [Merging Conflict pada Git](#merging-conflict-pada-git)
+1. [Merging Conflict pada Git](#merging-conflict-pada-git-)
 2. [Catatan Tambahan](#catatan-tambahan-)
 
 <p>&nbsp;</p>

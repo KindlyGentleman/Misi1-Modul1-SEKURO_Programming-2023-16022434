@@ -5,8 +5,8 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=LK3kX
 
 ## Daftar Isi
 
-1.[Apa itu Gitignore?](#apa-itu-gitignore)
-2.[Catatan Tambahan](#catatan-tambahan)
+1.[Apa itu Gitignore?](#apa-itu-gitignore-)
+2.[Catatan Tambahan](#catatan-tambahan-)
 
 <p>&nbsp;</p>
 
