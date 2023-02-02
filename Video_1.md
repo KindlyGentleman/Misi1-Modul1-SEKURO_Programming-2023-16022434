@@ -8,17 +8,24 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=lTMZx
 2. [Git](#git-)
 3. [Glosarium Git : Istilah Penting yang Sering Digunakan](#glosarium-git--istilah-penting-yang-sering-digunakan-)
 4. [Github serta Hubungannya dengan Git](#github-serta-hubungannya-dengan-git-)
+5. [Catatan Tambahan](#catatan-tambahan-)
 
 <p>&nbsp;</p>
 
 ## Version Control System <a name = "VCS"></a>
 
 Secara umum, Version Control System (VCS) adalah sistem yang digunakan untuk melakukan pengolahan dan perubahan pada suatu unit informasi. 
-Contoh dari unit informasi ini adalah dokumen, kode sumber (*source code*) dalam dunia pemrograman, dan lainnya. VCS akan menyimpan suatu `snapshot` perubahan
+Contoh dari unit informasi ini adalah dokumen, kode sumber (*source code*) dalam pemrograman, *website* dan lainnya. 
+
+VCS akan menyimpan suatu `snapshot` perubahan
 dari unit informasi tersebut. Hal ini digunakan untuk memudahkan pengerjaan terhadap suatu informasi, terutama informasi yang dikerjakan secara bersama, dan memungkinkan
-orang-orang yang mengerjakan untuk melacak perubahan yang dilakukan dalam proses kerja sama. Pelacakan ini melingkupi informasi tentang siapa yang melakukan perubahan dan kapan
+orang-orang yang mengerjakan untuk melacak perubahan yang dilakukan dalam proses kerja sama. 
+
+Pelacakan ini melingkupi informasi tentang siapa yang melakukan perubahan dan kapan
 dia melakukan perubahan tersebut. Selain itu, VCS dapat memungkinkan penggunanya untuk mengembalikan versi file atau informasi ke dalam keadaan sebelum terjadinya perubahan (*backup*) dengan
-`checkout`. Intinya, VCS akan dan sering digunakan untuk membantu suatu tim dalam melakukan kolaborasi dengan terstruktur terhadap suatu informasi dan melacak perubahan yang terjadi dalam prosesnya.
+`checkout`. 
+
+Intinya, VCS akan dan sering digunakan untuk membantu suatu tim dalam melakukan kolaborasi dengan terstruktur terhadap suatu informasi dan melacak perubahan yang terjadi dalam prosesnya.
 
 <p>&nbsp;</p>
 
@@ -54,3 +61,14 @@ Github digunakan untuk menyimpan dan membagikan tugas dengan orang lain secara k
 Untuk mengirimkan dan mengambil tugas tersebut, kita bisa menggunakan proses `push` dan `pull`. `Push` adalah proses mengirimkan *source code* dari komputer ke GitHub, sedangkan `Pull` adalah proses mengambil *source code* dari GitHub ke komputer. Kedua proses ini melibatkan `commit`.
 
 <p>&nbsp;</p>
+
+## Catatan Tambahan <a name = "CT"></a>
+
+Git dan Github memiliki peran berbeda, walaupun keduanya saling berkaitan.
+
+Key Points:
+
+- Git merupakan VCS yang digunakan untuk melakukan *tracking* perubahan sebuah informasi dalam suatu folder.
+- Github adalah layanan berbasis *cloud* untuk menyimpan dan mengatur `projects/repos` dari git.
+- Git dan Github dapat digunakan secara bersamaan dengan mengunduh Git ke komputer pribadi, memiliki akun Github, dan menghubungkan keduanya (akan dibahas pada rangkuman selanjutnya).
+- Sebuah `repository` yang bersifat *remote* di Github yang di-`clone` ke komputer pribadi adalah syarat yang perlu dipenuhi untuk bisa menggunakan keduanya, Github dan Git (akan dibahas lebih detail di rangkuman selanjutnya).
