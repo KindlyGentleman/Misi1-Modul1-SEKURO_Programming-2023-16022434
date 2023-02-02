@@ -24,10 +24,10 @@ dia melakukan perubahan tersebut. Selain itu, VCS dapat memungkinkan penggunanya
 
 ## Git <a name = "Git"></a>
 
-Git merupakan sebuah perangkat lunak VCS yang digunakan untuk mengelola perubahan informasi berupa file di folder (repository/repo). Git akan menyimpan seluruh riwayat perubahan dari file-file tersebut
+Git merupakan sebuah perangkat lunak VCS yang digunakan untuk mengelola perubahan informasi berupa file di folder (`repository/repo`). Git akan menyimpan seluruh riwayat perubahan dari file-file tersebut
 dengan bantuan serangkaian `commit` yang memiliki penanda unik hash. Dengan menggunakan Git, para developer atau tim dapat melakukan kolaborasi pada suatu *codebase* yang sama dan melakukan *version control system*
 dengan merekam dan menyimpan perubahan pada *source code*, sesuai dengan penjelasan pada [Version Control System (VCS)](#VCS). Dalam praktiknya, cabang baru atau `branch` dapat dibuat dari suatu `commit` dan menggabungkan fitur dari
-cabang-cabang berbeda yang dikerjakan secara terpisah dengan melakukan `merge`. Git dapat dijalankan dalam komputer pribadi (*lokal*) setelah mengunduh software Git yang dapat dilakukan dari [link berikut](https://git-scm.com/downloads). Istilah-istilah asing Git dalam bagian ini akan dibahas pada bagian selanjutnya
+cabang-cabang berbeda yang dikerjakan secara terpisah dengan melakukan `merge`. Git dapat dijalankan dalam komputer pribadi (*local*) setelah mengunduh software Git yang dapat dilakukan dari [link berikut](https://git-scm.com/downloads). Istilah-istilah asing Git dalam bagian ini akan dibahas pada bagian selanjutnya
 
 <p>&nbsp;</p>
 
@@ -48,9 +48,9 @@ cabang-cabang berbeda yang dikerjakan secara terpisah dengan melakukan `merge`. 
 
 ## Github serta Hubungannya dengan Git <a name = "Github"></a>
 
-Github merupakan suatu layanan berbasis cloud yang memungkinkan penggunanya untuk mengelola dan menyimpan suatu project atau repository dengan menggunakan Git.
+Github merupakan suatu layanan berbasis *cloud* yang memungkinkan penggunanya untuk mengelola dan menyimpan suatu `project` atau `repository` dengan menggunakan Git.
 Git dan Github dapat dianalogikan sebagai hubungan rumah dan kantor dimana Git bekerja sebagai rumah dan Github bekerja sebagai kantor. Git digunakan untuk mengerjakan tugas di komputer lokal.
-Github digunakan untuk menyimpan dan membagikan tugas dengan orang lain secara kolaborasi. Git dan GitHub akan melakukan kerja sama dengan memiliki remote repo di GitHub yang di-clone ke komputer lokal.
-Untuk mengirimkan dan mengambil tugas tersebut, kita bisa menggunakan proses `push` dan `pull`. Push adalah proses mengirimkan source code dari komputer ke GitHub, sedangkan Pull adalah proses mengambil source code dari GitHub ke komputer. Kedua proses ini melibatkan commit.
+Github digunakan untuk menyimpan dan membagikan tugas dengan orang lain secara kolaborasi. Git dan GitHub akan melakukan kerja sama dengan memiliki remote repo di GitHub yang di-*clone* ke komputer lokal.
+Untuk mengirimkan dan mengambil tugas tersebut, kita bisa menggunakan proses `push` dan `pull`. `Push` adalah proses mengirimkan *source code* dari komputer ke GitHub, sedangkan `Pull` adalah proses mengambil *source code* dari GitHub ke komputer. Kedua proses ini melibatkan `commit`.
 
 <p>&nbsp;</p>
