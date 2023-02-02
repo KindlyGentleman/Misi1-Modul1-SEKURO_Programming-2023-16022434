@@ -57,8 +57,8 @@ cabang-cabang berbeda yang dikerjakan secara terpisah dengan melakukan `merge`. 
 
 Github merupakan suatu layanan berbasis *cloud* yang memungkinkan penggunanya untuk mengelola dan menyimpan suatu `project` atau `repository` dengan menggunakan Git.
 Git dan Github dapat dianalogikan sebagai hubungan rumah dan kantor dimana Git bekerja sebagai rumah dan Github bekerja sebagai kantor. Git digunakan untuk mengerjakan tugas di komputer lokal.
-Github digunakan untuk menyimpan dan membagikan tugas dengan orang lain secara kolaborasi. Git dan GitHub akan melakukan kerja sama dengan memiliki remote repo di GitHub yang di-*clone* ke komputer lokal.
-Untuk mengirimkan dan mengambil tugas tersebut, kita bisa menggunakan proses `push` dan `pull`. `Push` adalah proses mengirimkan *source code* dari komputer ke GitHub, sedangkan `Pull` adalah proses mengambil *source code* dari GitHub ke komputer. Kedua proses ini melibatkan `commit`.
+Github digunakan untuk menyimpan dan membagikan tugas dengan orang lain secara kolaborasi. Git dan Github akan melakukan kerja sama dengan memiliki remote repo di Github yang di-*clone* ke komputer lokal.
+Untuk mengirimkan dan mengambil tugas tersebut, kita bisa menggunakan proses `push` dan `pull`. `Push` adalah proses mengirimkan *source code* dari komputer ke Github, sedangkan `Pull` adalah proses mengambil *source code* dari Github ke komputer. Kedua proses ini melibatkan `commit`.
 
 <p>&nbsp;</p>
 

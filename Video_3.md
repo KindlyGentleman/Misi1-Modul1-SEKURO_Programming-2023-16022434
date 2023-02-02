@@ -43,6 +43,9 @@ Perlu diperhatikan bahwa ada kasus "merge conflict" dimana adanya perubahan yang
 <p>&nbsp;</p>
 
 ## Catatan Tambahan <a name = "CT"></a>
+
+Key Points:
+
 - `Branch` adalah fitur untuk membuat `snapshot` di Github tanpa mengganggu `Master Branch`
 - `Merge` adalah proses penggabungan `branch` yang dibuat kembali ke `Master Branch`
 - `Pull request` adalah permintaan untuk memasukan perubahan ke `Master Branch`
