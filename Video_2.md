@@ -8,6 +8,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=Q3Id0
 1. [Bagaimana Cara Menggunakan Github?](#bagaimana-cara-menggunakan-github-)
 2. [Informasi dalam Github](#informasi-dalam-github-)
 3. [Catatan Tambahan](#catatan-tambahan-)
+
 <p>&nbsp;</p>
 
 ## Bagaimana Cara Menggunakan Github? <a name = "How-Github"></a>
@@ -50,6 +51,8 @@ Sesuai dengan rangkuman video sebelumnya, ada beberapa hal yang perlu kita lakuk
 Apabila Anda ingin melihat seluruh riwayat perubahan terhadap suatu `repository` atau file di dalamnya, tombol "history" dapat diklik dan riwayat `commit` akan muncul dan Anda bisa memilih `commit` yang ingin dilihat juga. 
 
 Secara umum, perubahan yang ditambahkan akan di-*highlight* dengan warna hijau. Perubahan yang dihilangkan akan di-*highlight* dengan warna merah. Apabila tidak ada yang di *highlight* maka tidak ada yang diubah dari bagian tersebut.
+
+<p>&nbsp;</p>
 
 ## Catatan Tambahan <a name = "CT"></a>
 
