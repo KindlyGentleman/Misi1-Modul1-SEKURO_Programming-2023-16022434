@@ -7,7 +7,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=k1QXd
 
 1. [Apa itu Branch?](#apa-itu-branch-)
 2. [Merging dan Pull Request](#merging-dan-pull-request-)
-3. [Catatan Penting](#catatan-tambahan-)
+3. [Catatan Tambahan](#catatan-tambahan-)
 
 <p>&nbsp;</p>
 
