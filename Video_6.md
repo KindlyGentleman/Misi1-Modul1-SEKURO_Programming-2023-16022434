@@ -24,14 +24,14 @@ Command yang bisa digunakan untuk memindahkan ke `branch`:
 ```
 $ git checkout (nama_branch)
 ```
-![Git Branch](screenshot\gitbranch.png)
+![Git Branch](./screenshot/gitbranch.png)
 
 <p>&nbsp;</p>
 
 ## Git : Apa itu Merge? <a name = "Merge"></a>
 Sama seperti pada Github, `merge` pada Git merupakan suatu proses penggabungan `branch` yang terpisah menjadi satu di `Main Branch`. Dalam Git, terdapat dua jenis `merge` yang dapat dilakukan:
 
-![Git Merge](screenshot\gitmerge.png)
+![Git Merge](./screenshot/gitmerge.png)
 
 - Fast Forward:
     - Fast Forward akan terjadi ketika `branch` berada dalam jalur langsung dalam prosesnya (*direct path*).

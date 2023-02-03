@@ -20,11 +20,11 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=8rry2
 Secara umum, cara yang dapat dilakukan untuk melakukan `forking` adalah:
 - Klik tombol "fork"
 
-    ![Create Fork](screenshot\createfork.png)
+    ![Create Fork](./screenshot/createfork.png)
 
 - setelah `forking` dilakukan, kita dapat melakukan *edit* `repository` hasil fork secara bebas
 
-    ![Create Fork Information](screenshot\createforkinfo.png)
+    ![Create Fork Information](./screenshot/createforkinfo.png)
 
 - Setelah selesai meng-*edit*, apabila kita merasa perubahan yang kita lakukan berkontribusi pada kemajuan bangsa dan negara, kita dapat melakukan `pull request` pada `repo` asli. Proses ini dilakukan dengan mengklik "Create pull request"
 -Pemilik dari `repo` asli akan menerima permintaan tersebut dan bisa melakukan `merge` ke `repo` aslinya
@@ -35,7 +35,7 @@ Secara umum, cara yang dapat dilakukan untuk melakukan `forking` adalah:
 
 `clone` adalah proses penggandaan ~~uang Dimas Kanjeng~~ `repository`. Secara umum, `clone` merupakan proses yang akan mengunduh `repository` dari *website* Github ke Git yang ada di komputer lokal. Cara untuk melakukan `clone` adalah dengan mengklik "clone" dan mengunduh `repository` sebagai file berekstensi .zip.
 
-![Clone](screenshot\clone.png)
+![Clone](./screenshot/clone.png)
 
 <p>&nbsp;</p>
 

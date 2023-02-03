@@ -16,7 +16,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=e-6Ok
 
 Git ~~gud~~ dapat diunduh dan diinstal dari [link berikut ini](https://git-scm.com/downloads). Dalam penggunaannya, Git bisa digunakan menggunakan *console* atau *command prompt*. Akan tetapi, tersedia juga perangkat lunak Git Client dengan tampilan GUI (Graphical User Interface) bagi pengguna yang memilih untuk tidak melakukan pemrograman. Setelah Anda melakukan instalasi Git, Anda bisa membuka Git Bash dan mengetik "git" untuk memunculkan bantuan mengenai Git.
 
-![Git](screenshot\git.png)
+![Git](./screenshot/git.png)
 
 <p>&nbsp;</p>
 
@@ -83,11 +83,11 @@ git add <file>
 ```
 git commit -m 'pesan commit'
 ``` 
-![Init](screenshot\gitinit.png)
+![Init](./screenshot/gitinit.png)
 
-![Git Command](screenshot\gitcommand.png)
+![Git Command](./screenshot/gitcommand.png)
 
-![Commit](screenshot\gitcommit.png)
+![Commit](./screenshot/gitcommit.png)
 
 <p>&nbsp;</p>
 

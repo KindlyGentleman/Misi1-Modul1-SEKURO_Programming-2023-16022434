@@ -19,49 +19,49 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=Q3Id0
 - Buka [website Github](https://github.com/) berikut
 - Klik tombol "sign up"
 
-    ![Sign Up Button](screenshot\signup.png)
+    ![Sign Up Button](./screenshot/signup.png)
 
 - Isi informasi yang diperlukan dalam form yang muncul
 
-    ![Sign Up Information](screenshot\isidata.png)
+    ![Sign Up Information](./screenshot/isidata.png)
 
 - Setelah mengisi informasi, terutama informasi mengenail email, cek *inbox* email untuk melakukan verifikasi email akun
 
 ### 2. Membuat repository baru:
 - Klik tombol "+" yang ada di samping profil
 
-    ![New Repository](screenshot\newrep.png)
+    ![New Repository](./screenshot/newrep.png)
 
 - Isi informasi mengenai nama `repository`
 - Pilih sifat `repository`, sifat *public* akan membuat `repo` bisa diakses oleh semua orang, sifat *private* akan membuat `repo` hanya bisa diakses oleh Anda
 
-    ![Repository Information](screenshot\newrepinfo.png)
+    ![Repository Information](./screenshot/newrepinfo.png)
 
 - Klik "create repository"
 
 ### 3. Membuat file baru
 - Klik "create new file"
 
-    ![Create New File](screenshot\createnewfile.png)
+    ![Create New File](./screenshot/createnewfile.png)
 
 - Beri nama beserta format dari file tersebut
 - Edit file baru tersebut sesuai dengan kepentingan Anda
 - Tulis pesan `commit`-nya sesuai dengan apa yang Anda modifikasi (atau bebas sesuai dengan kebutuhan)
 
-    ![Commit Changes](screenshot\commitchanges.png)
+    ![Commit Changes](./screenshot/commitchanges.png)
 
 - `Commit` file baru terhadap `branch` yang dipilih
 
 ### 4. Mengedit file yang sudah ada
 - klik file yang ingin di-*edit*
 
-    ![Edit File](screenshot\editexistingfile.png)
+    ![Edit File](./screenshot/editexistingfile.png)
 
 - Pilih ikon berbentuk pensil
 - Edit file sesuai kebutuhan Anda
 - Tulis pesan `commit`-nya sesuai apa yang Anda inginkan
 
-    ![Commit Changes](screenshot\commitchanges.png)
+    ![Commit Changes](./screenshot/commitchanges.png)
 
 - `Commit` file baru terhadap `branch` yang dipilih
 

@@ -34,18 +34,18 @@ Istilah `Pull Request` akan sering ditemukan dalam Github yang menjelaskan tenta
 Langkah-langkah yang yang bisa dilakukan dalam melakukan proses `merge` dan `pull request` adalah:
 - Pilih menu "Compare & pull request"
 
-    ![Branch](screenshot\createbranch.png)
-    ![Two Branch](screenshot\twobranch.png)
+    ![Branch](./screenshot/createbranch.png)
+    ![Two Branch](./screenshot/twobranch.png)
 
 - Apabila kedua `commit` dari `branch` pribadi dan `Master Branch` dapat digabung yang ditandai dengan tulisan  “Able to merge”, silakan buat `pull request`
 - Apabila kedua `commit` belum bisa digabung atau terdapat "merge conflict", silakan bandingkan atau *compare* terlebuh dahulu keduanya lalu buat pull request
 
-   ![Compare](screenshot\compare.png)
+   ![Compare](./screenshot/compare.png)
 
 - Pilih menu "Create pull request" untuk membuat `pull request`
 - Klik "merge" untuk melakukan penggabungan
 
-   ![Merge](screenshot\merge.png)
+   ![Merge](./screenshot/merge.png)
 
 Perlu diperhatikan bahwa ada kasus "merge conflict" dimana adanya perubahan yang sama pada `branch` dan `Master Branch`. Masalah ini bisa diselesaikan oleh orang yang memiliki akses pada `Master Branch`, biasanya pemiliknya.
 
