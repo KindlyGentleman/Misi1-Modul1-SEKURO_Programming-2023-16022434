@@ -12,7 +12,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=Vfwfe
 
 ## Merging Conflict pada Git <a name = "Conflict"></a>
 
-"Merging conflict" akan terjadi apabila terdapat perbedaan pada baris yang sama pada dua `branch` yang akan di-`merge`. Untuk menyelesaikan konflik ini, `branch` harus di *review* secara manual dengan menggunakan bantuan text editor atau IDE.
+"Merging conflict" akan terjadi apabila ~~kamu dan pasangan kamu sedang berantem~~ terdapat perbedaan pada baris yang sama pada dua `branch` yang akan di-`merge`. Untuk menyelesaikan konflik ini, `branch` harus di *review* secara manual dengan menggunakan bantuan text editor atau IDE.
 
 Pada saat terjadi "merging conflict", bagian yang mengalami *conflict* akan ditandai dengan tanda pemisah antara `branch` yang sedang aktif dan pada `branch` yang akan di-`merge`. Baris yang mengalami konflik dapat diterima atau dihapus sesuai dengan keputusan pengguna atau orang yang melakukan *review*.
 

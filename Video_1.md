@@ -4,7 +4,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=lTMZx
 <p>&nbsp;</p>
 
 ## Daftar Isi
-1. [Version Control System](#version-control-system-)
+1. [Sistem Pengontrolan Versi atau Version Control System](#sistem-pengontrolan-versi-atau-version-control-system-)
 2. [Git](#git-)
 3. [Glosarium Git : Istilah Penting yang Sering Digunakan](#glosarium-git--istilah-penting-yang-sering-digunakan-)
 4. [Github serta Hubungannya dengan Git](#github-serta-hubungannya-dengan-git-)
@@ -12,9 +12,9 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=lTMZx
 
 <p>&nbsp;</p>
 
-## Version Control System <a name = "VCS"></a>
+## Sistem Pengontrolan Versi atau Version Control System <a name = "VCS"></a>
 
-Secara umum, Version Control System (VCS) adalah sistem yang digunakan untuk melakukan pengolahan dan perubahan pada suatu unit informasi. 
+Secara umum, Version Control System (VCS) adalah sistem yang digunakan untuk mengelola dan memproses perubahan pada suatu unit informasi. 
 Contoh dari unit informasi ini adalah dokumen, kode sumber (*source code*) dalam pemrograman, *website* dan lainnya. 
 
 VCS akan menyimpan suatu `snapshot` perubahan

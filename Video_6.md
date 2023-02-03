@@ -13,7 +13,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=EGl7K
 
 ## Git : Apa itu Branch? <a name = "Branch"></a>
 
-`Branch` merupakan salah satu fitur yang ada di dalam Git untuk membuat cabang dari `Master Branch`, secara pengertian memiliki kesamaan seperti `branch` pada Github. Sama dengan `branch` pada umumnya, `branch` pada Git digunakan agar kita bisa menambahkan suatu fitur baru tanpa melakukan perubahan atau memengaruhi `Master Branch` atau `main`.
+`Branch` merupakan salah satu fitur yang ada di dalam Git untuk membuat ~~batang kayu~~ cabang dari `Master Branch`, secara pengertian memiliki kesamaan seperti `branch` pada Github. Sama dengan `branch` pada umumnya, `branch` pada Git digunakan agar kita bisa menambahkan suatu fitur baru tanpa melakukan perubahan atau memengaruhi `Master Branch` atau `main`.
 
 Command yang bisa digunakan untuk membuat `branch`:
 
@@ -24,11 +24,15 @@ Command yang bisa digunakan untuk memindahkan ke `branch`:
 ```
 $ git checkout (nama_branch)
 ```
+![Git Branch](screenshot\gitbranch.png)
 
 <p>&nbsp;</p>
 
 ## Git : Apa itu Merge? <a name = "Merge"></a>
 Sama seperti pada Github, `merge` pada Git merupakan suatu proses penggabungan `branch` yang terpisah menjadi satu di `Main Branch`. Dalam Git, terdapat dua jenis `merge` yang dapat dilakukan:
+
+![Git Merge](screenshot\gitmerge.png)
+
 - Fast Forward:
     - Fast Forward akan terjadi ketika `branch` berada dalam jalur langsung dalam prosesnya (*direct path*).
     ```

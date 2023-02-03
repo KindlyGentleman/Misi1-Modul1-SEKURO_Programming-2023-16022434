@@ -12,7 +12,7 @@ Sumber materi dapat diakses melalui [link](https://www.youtube.com/watch?v=LK3kX
 
 ## Apa itu Gitignore? <a name = "Ignore"></a>
 
-Secara umum, gitignore merupakan suatu file yang biasanya disimpan di dalam folder atau `repository` git. Fungsi penempatan dari file ini adalah memberi tahu proses `add` dan `commit` agar mengabaikan file tertentu.
+Secara umum, gitignore merupakan suatu file yang biasanya disimpan di dalam folder atau `repository` git. Fungsi penempatan dari file ini adalah memberi tahu proses `add` dan `commit` agar mengabaikan file tertentu. **Bila dianalogikan, gitignore adalah suatu list yang dibuat mantan kamu dimana nama kamu ada di dalamnya, itu kenapa dia tidak pernah membalas chat kamu karena kamu ter-*ignore*.**
 
 Cara menggunakannya adalah
 - Buat file dengn nama .gitignore pada `repo`
